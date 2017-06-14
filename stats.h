@@ -25,7 +25,6 @@
 #ifndef __STATS_H__
 #define __STATS_H__
 
-#include <math.h>
 
 /**
  * @brief Print statistics of the given data set including min, max,mean and median values.
